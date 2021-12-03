@@ -23,7 +23,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 For this project, you will **not** need to install Unity - this is because we have already built the environment for you, and you can download it from one of the links below. You need only select the environment that matches your operating system:
 
-* Linux: [click here](https://www.google.com) <a href="https://user-images.githubusercontent.com/95396618/144585373-58159d73-e732-4647-9034-37c00778b9b1.png" download>Click to Download</a>
+* Linux: <a href="https://github.com/AIinFinance/Project3-Collaboration-and-Competition/files/7648886/Tennis_Windows_x86_64.zip" download>click here</a>
 * Mac OSX: click here
 * Windows (32-bit): click here
 * Windows (64-bit): click here

@@ -24,8 +24,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 For this project, you will **not** need to install Unity - this is because we have already built the environment for you, and you can download it from one of the links below. You need only select the environment that matches your operating system:
 
 * Linux:  
-* Mac OSX: click here
-* Windows (32-bit): click here
+* Mac OSX: <a href="https://github.com/AIinFinance/Project3-Collaboration-and-Competition/files/7648933/Tennis.app.zip" download>click here</a>
+* Windows (32-bit): <a href="https://github.com/AIinFinance/Project3-Collaboration-and-Competition/files/7648930/Tennis_Windows_x86.zip" download>click here</a>
 * Windows (64-bit): <a href="https://github.com/AIinFinance/Project3-Collaboration-and-Competition/files/7648886/Tennis_Windows_x86_64.zip" download>click here</a>
 
 Then, place the file in the p3_collab-compet/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
@@ -33,3 +33,4 @@ Then, place the file in the p3_collab-compet/ folder in the DRLND GitHub reposit
 (For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
 
 (For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the "headless" version of the environment. You will not be able to watch the agent without enabling a virtual screen, but you will be able to train the agent. (To watch the agent, you should follow the instructions to enable a virtual screen, and then download the environment for the Linux operating system above.)
+ 

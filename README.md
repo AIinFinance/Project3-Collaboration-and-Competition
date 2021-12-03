@@ -23,10 +23,10 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 For this project, you will **not** need to install Unity - this is because we have already built the environment for you, and you can download it from one of the links below. You need only select the environment that matches your operating system:
 
-* Linux: <a href="https://github.com/AIinFinance/Project3-Collaboration-and-Competition/files/7648886/Tennis_Windows_x86_64.zip" download>click here</a>
+* Linux:  
 * Mac OSX: click here
 * Windows (32-bit): click here
-* Windows (64-bit): click here
+* Windows (64-bit): <a href="https://github.com/AIinFinance/Project3-Collaboration-and-Competition/files/7648886/Tennis_Windows_x86_64.zip" download>click here</a>
 
 Then, place the file in the p3_collab-compet/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
 

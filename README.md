@@ -2,7 +2,7 @@
 
 For this project, you will work with the Tennis environment.
 <p align="center">
-<img width="80%" src="https://user-images.githubusercontent.com/95396618/144585373-58159d73-e732-4647-9034-37c00778b9b1.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/95396618/144585373-58159d73-e732-4647-9034-37c00778b9b1.png"/>  
 Unity ML-Agents Tennis Environment 
 </p>
 

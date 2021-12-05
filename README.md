@@ -1,7 +1,7 @@
 # Project3: Collaboration and Competition
 
 ### The Environment
-For this project, you will work with the Unity Tennis environment.
+The goal of this project is to train an agent to solve the Unity Tennis environment.
 
 <p align="center">
 <img width="80%" src="https://user-images.githubusercontent.com/95396618/144585373-58159d73-e732-4647-9034-37c00778b9b1.png"/>  
@@ -29,12 +29,10 @@ For this project, you will **not** need to install Unity - this is because we ha
 * Windows (32-bit): <a href="https://github.com/AIinFinance/Project3-Collaboration-and-Competition/files/7648930/Tennis_Windows_x86.zip" download>click here</a>
 * Windows (64-bit): <a href="https://github.com/AIinFinance/Project3-Collaboration-and-Competition/files/7648886/Tennis_Windows_x86_64.zip" download>click here</a>
 
-Then, place the file in your folder in the DRLND GitHub repository, and unzip (or decompress) the file.
+Then, place the file in a folder in your GitHub repository, and unzip (or decompress) the file.
 
 (For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
 
-(For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the "headless" version of the environment. You will not be able to watch the agent without enabling a virtual screen, but you will be able to train the agent. (To watch the agent, you should follow the instructions to enable a virtual screen, and then download the environment for the Linux operating system above.)
-
 ### Instructions
 
-To start training the agent, open Tennis.ipynb on Jupyter Notebook and to run the code cell use Shift+Enter or click the Run button.
+In order to train an agent, open `Tennis.ipynb` on Jupyter Notebook and run the code by pressing Shift+Enter or clicking Run button.

@@ -1,4 +1,4 @@
-# Project3: Collaboration and Competition
+# Project 3: Collaboration and Competition
 
 ### The Environment
 The goal of this project is to train an agent to solve the Unity Tennis environment.

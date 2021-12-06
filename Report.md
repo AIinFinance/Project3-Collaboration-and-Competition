@@ -4,5 +4,9 @@ As the Unity Reacher environment in the project 2, the Unity Tennis environment 
 which is a list of individual ddpg_agent. Moreover, since all the agents share their experience, I moved `ReplayBuffer` which was originally in ‘ddpg_agent.py’ to `multi_agents.py’
 
 # Plot of Rewards
+<p align="center">
+<img width="80%" src="https://user-images.githubusercontent.com/95396618/144585373-58159d73-e732-4647-9034-37c00778b9b1.png"/>  
+</p>  
+
 
 # Ideas for Future Work

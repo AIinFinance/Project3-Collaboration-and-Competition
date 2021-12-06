@@ -4,7 +4,7 @@ As the Unity Reacher environment of the second project, the Unity Tennis environ
 [Agent(state_size, action_size, random_seed) for i in range(num_agents)]
 </p>  
 
-which is a list of individual ddpg_agent. Moreover, since all the agents share their experience, I moved `ReplayBuffer` which was originally in ‘ddpg_agent.py’ to `multi_agents.py’
+which is a list of individual ddpg_agents. Moreover, since all the agents share their experience, I moved `ReplayBuffer` which was originally in ‘ddpg_agent.py’ to `multi_agents.py’
 
 # Plot of Rewards
 

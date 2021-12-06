@@ -35,4 +35,4 @@ Then, place the file in a folder in your GitHub repository, and unzip (or decomp
 
 ### Instructions
 
-In order to train an agent, open `Tennis.ipynb` on Jupyter Notebook and run the code by pressing Shift+Enter or clicking Run button.
+In order to train an agent, open `Collaboration_and_Competition.ipynb` on Jupyter Notebook and run the code by pressing Shift+Enter or clicking Run button.

@@ -21,3 +21,4 @@ which is a list of individual ddpg_agents. Moreover, since all the agents share 
 
 
 # Ideas for Future Work
+As in the second project, I want to try soft actor-critic method for future work. Unlike DDPG, which use deterministic policies, soft actor-critic uses a stochastic policy. Moreover, soft actor-critic model works in a similar manner to temporal difference approach. The critic in soft actor-critic model uses both the Q function and the value function. Thus, it might provide better performance compared to DDPG.
